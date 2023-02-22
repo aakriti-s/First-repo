@@ -1,4 +1,5 @@
-HI, how are you?
+HI, how are you? The weather is pleasant.
+Let's go out.
 
 This is first tutorial.
 DIY git operations.
